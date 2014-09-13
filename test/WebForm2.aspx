@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    This is my SECOND file added to project
+    This is my 2nd file added to project
     </div>
     </form>
 </body>
